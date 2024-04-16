@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my programming skills**
 
-- 🌱 I’m currently learning **Java Spring Boot, Jenkins, DevOps**
+- 🌱 I’m currently learning **Java Spring Boot, Laravel, Jenkins, DevOps**
 
 
 
